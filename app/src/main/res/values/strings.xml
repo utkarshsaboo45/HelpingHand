@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Helping Hand</string>
+    <string name="send_button_label">Send Message</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Helping Hand</string>
+    <string name="nav_header_subtitle">helping.hand@wayforlife.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
